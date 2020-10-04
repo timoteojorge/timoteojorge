@@ -8,3 +8,7 @@ Would you like to find me?
 
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftimoteo--jorge%2F-brightgreen)](https://www.linkedin.com/in/timoteo-jorge/)
 
+[![Website Badge](https://img.shields.io/badge/website-https%3A%2F%2Ftimoteojorge.com-blue)](https://timoteojorge.com/)
+
+
+
